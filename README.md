@@ -5,7 +5,7 @@
 - **ID:** 26229
 
 ## Project Overview
-This is an E-commerce application developed as part of Web Technology Assignment 3. The project implements a RESTful API for managing products with advanced search capabilities.
+This is an E-commerce application developed as part of Web Technology Assignment 3. The project implements a springboot RESTful API for managing products with advanced search capabilities.
 
 ## Features
 - Product management (CRUD operations)
@@ -23,13 +23,13 @@ This is an E-commerce application developed as part of Web Technology Assignment
 ## Screenshots
 
 ### Search by Brand
-![Search by Brand](screenshots/search-by-brand.png)
+![Search by Brand](search-by-brand.png)
 
 ### Search by Category
-![Search by Category](screenshots/search-by-category.png)
+![Search by Category](search-by-category.png)
 
 ### Search by Brand and Category
-![Search by Brand and Category](screenshots/search-by-brand-and-category.png)
+![Search by Brand and Category](search-by-brand-and-category.png)
 
 ## API Endpoints
 - `GET /api/products` - Get all products
